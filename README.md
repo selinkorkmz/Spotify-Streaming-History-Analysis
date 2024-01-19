@@ -93,8 +93,8 @@ The project has potential for further enhancements and future developments:
 To replicate or contribute to this project, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/selinkorkmz/spotify-analysis.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Execute the analysis scripts: `python analyze_spotify.py`
+2. Install dependencies: `pip install requirements`
+3. Execute the analysis scripts: `selinkorkmaz-cs210-project.ipynb`
 
 Feel free to explore the Jupyter notebooks, data visualizations, and contribute to the project.
 
@@ -107,7 +107,10 @@ Before running the analysis, make sure you have the following dependencies insta
 - NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
+- Reguests
+- json
+- os
+- datetime
   
 ## Contributors
 Ayse Selin Korkmaz
