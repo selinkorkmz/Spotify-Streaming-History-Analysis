@@ -12,8 +12,8 @@ I initiated this project to go beyond Spotify's yearly summaries and gain a more
 
 ## Data Source
 
--The primary data source for this project is my Spotify listening history (StreamingHistory-.json) that I requested from Spotify. 
--The data for song's details are collected through Spotify's API, allowing for a detailed examination of each song for their artists, genres, and more.
+- **The primary data source for this project is my Spotify listening history (StreamingHistory-.json) that I requested from Spotify. 
+- **The data for song's details are collected through Spotify's API, allowing for a detailed examination of each song for their artists, genres, and more.
 
 ## Data Analysis
 
