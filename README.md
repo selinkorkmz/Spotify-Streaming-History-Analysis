@@ -92,7 +92,7 @@ The project has potential for further enhancements and future developments:
 
 To replicate or contribute to this project, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/selinkorkmz/spotify-analysis.git`
+1. Clone the repository: `git clone https://github.com/selinkorkmz/Spotify-Streaming-History-Analysis.git`
 2. Install dependencies: `pip install requirements`
 3. Execute the analysis scripts: `selinkorkmaz-cs210-project.ipynb`
 
